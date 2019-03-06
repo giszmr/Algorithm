@@ -18,7 +18,7 @@ int main(int argc, char* argv[])
     sum2(); // 1     66           6,500
     sum3(); // 7     6,500        3,500,00
     sum4(); // 1     30           1,218
-    sum5(); // 45    2,500,000    
+    sum5(); // 45    2,500,000    more than 12 hours
     sum6(); // 10    310,000      
 
     return 0;
